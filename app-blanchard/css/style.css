@@ -179,7 +179,7 @@ body {
   font-weight: 400;
   line-height: 25px;
   letter-spacing: 0em;
-  background-image: url(/img/header.svg);
+  background-image: url(/app-blanchard/img/header.svg);
   background-repeat: no-repeat;
   background-position: left bottom 45%;
   transition: color 0.3s ease-in-out, background-image 0.3ms ease-in-out, background-color 0.7s ease;
@@ -192,13 +192,13 @@ body {
 
 .header__btn:hover {
   color: #C283F3;
-  background-image: url(/img/header-hover.svg);
+  background-image: url(/app-blanchard/img/header-hover.svg);
   background-color: transparent;
 }
 
 .header__btn:active {
   color: var(--element-color);
-  background-image: url(/img/header-acex.svg);
+  background-image: url(/app-blanchard/img/header-acex.svg);
   background-color: transparent;
 }
 
@@ -474,19 +474,19 @@ body {
 }
 
 .header__item-realism-one {
-  background-image: url(/img/realism1.jpg);
+  background-image: url(/app-blanchard/img/realism1.jpg);
   }
 
 .header__item-realism-two {
-  background-image: url(/img/ralism2.png);
+  background-image: url(/app-blanchard/img/ralism2.png);
   }
 
 .header__item-realism-three {
-  background-image: url(/img/realism3.png);
+  background-image: url(/app-blanchard/img/realism3.png);
   }
 
 .header__item-realism-four {
-  background-image: url(/img/realism4.png);
+  background-image: url(/app-blanchard/img/realism4.png);
   }
 
 .header__bottom-item-link {
@@ -504,19 +504,19 @@ body {
   }
 
 .header__item-impressionism-one {
-  background-image: url(/img/impressionism1.jpg);
+  background-image: url(/app-blanchard/img/impressionism1.jpg);
   }
 
 .header__item-impressionism-two {
-  background-image: url(/img/impressionism2.jpg);
+  background-image: url(/app-blanchard/img/impressionism2.jpg);
   }
 
 .header__item-impressionism-three {
-  background-image: url(/img/impressionism3.jpg);
+  background-image: url(/app-blanchard/img/impressionism3.jpg);
   }
 
 .header__item-impressionism-four {
-  background-image: url(/img/impressionism4.jpg);
+  background-image: url(/app-blanchard/img/impressionism4.jpg);
   }
 
 .header__list-post-impressionism {
@@ -524,19 +524,19 @@ body {
   }
 
 .header__item-post-impressionism-one {
-  background-image: url(/img/post-impr1.jpg);
+  background-image: url(/app-blanchard/img/post-impr1.jpg);
   }
 
 .header__item-post-impressionism-two {
-  background-image: url(/img/post-impr2.jpg);
+  background-image: url(/app-blanchard/img/post-impr2.jpg);
   }
 
 .header__item-post-impressionism-three {
-  background-image: url(/img/post-impr3.jpg);
+  background-image: url(/app-blanchard/img/post-impr3.jpg);
   }
 
 .header__item-post-impressionism-four {
-  background-image: url(/img/post-impr4.jpg);
+  background-image: url(/app-blanchard/img/post-impr4.jpg);
   }
 
 .header__list-avangard {
@@ -544,19 +544,19 @@ body {
   }
 
 .header__item-avangard-one {
-  background-image: url(/img/avangard1.jpg);
+  background-image: url(/app-blanchard/img/avangard1.jpg);
   }
 
 .header__item-avangard-two {
-  background-image: url(/img/avangard2.jpg);
+  background-image: url(/app-blanchard/img/avangard2.jpg);
   }
 
 .header__item-avangard-three {
-  background-image: url(/img/avangard3.jpg);
+  background-image: url(/app-blanchard/img/avangard3.jpg);
   }
 
 .header__item-avangard-four {
-  background-image: url(/img/avangard4.jpg);
+  background-image: url(/app-blanchard/img/avangard4.jpg);
   }
 
 .header__list-futurism {
@@ -564,19 +564,19 @@ body {
   }
 
 .header__item-futurism-one {
-  background-image: url(/img/futurism1.jpg);
+  background-image: url(/app-blanchard/img/futurism1.jpg);
   }
 
 .header__item-futurism-two {
-  background-image: url(/img/futurism2.jpg);
+  background-image: url(/app-blanchard/img/futurism2.jpg);
   }
 
 .header__item-futurism-three {
-  background-image: url(/img/futurism3.jpg);
+  background-image: url(/app-blanchard/img/futurism3.jpg);
   }
 
 .header__item-futurism-four {
-  background-image: url(/img/futurism4.jpg);
+  background-image: url(/app-blanchard/img/futurism4.jpg);
   }
 
 .simplebar-offset {
@@ -620,15 +620,15 @@ body {
 }
 
 .hero__swiper-slide1 {
-  background-image: url(/img/hero-slide1.jpg);
+  background-image: url(/app-blanchard/img/hero-slide1.jpg);
 }
 
 .hero__swiper-slide2 {
-  background-image: url(/img/hero-slide2.jpg);
+  background-image: url(/app-blanchard/img/hero-slide2.jpg);
 }
 
 .hero__swiper-slide3 {
-  background-image: url(/img/hero-slide3.jpg);
+  background-image: url(/app-blanchard/img/hero-slide3.jpg);
 }
 
 .hero__wrapper {
@@ -773,7 +773,7 @@ body {
   padding-left: 160px;
   padding-right: 160px;
   max-width: 100%;
-  background-image: url(/img/gallery.jpg);
+  background-image: url(/app-blanchard/img/gallery.jpg);
 }
 
 .gallery__container {
@@ -856,7 +856,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5);
-  background-image: url(/img/Gallery-hover.svg);
+  background-image: url(/app-blanchard/img/Gallery-hover.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-clip: content-box;
@@ -1141,23 +1141,23 @@ div[id$="choice-6"] {
 }
 
 .catalog__tab-item-one {
-  background-image: url(/img/tab-1.svg);
+  background-image: url(/app-blanchard/img/tab-1.svg);
 }
 
 .catalog__tab-item-two {
-  background-image: url(/img/tab-3.svg);
+  background-image: url(/app-blanchard/img/tab-3.svg);
 }
 
 .catalog__tab-item-three {
-  background-image: url(/img/tab-4.svg);
+  background-image: url(/app-blanchard/img/tab-4.svg);
 }
 
 .catalog__tab-item-four {
-  background-image: url(/img/tab-5.svg);
+  background-image: url(/app-blanchard/img/tab-5.svg);
 }
 
 .catalog__tab-item-five {
-  background-image: url(/img/tab-2.svg);
+  background-image: url(/app-blanchard/img/tab-2.svg);
 }
 
 .catalog__tab-btn {
@@ -1315,212 +1315,212 @@ div[id$="choice-6"] {
 }
 
 .catalog__content-left-france{
-  background-image: url(/img/france.jpg);
+  background-image: url(/app-blanchard/img/france.jpg);
   background-size: 100% 470px;
 }
 
 .catalog__twenty-one-france {
-  background-image: url(/img/twenty-one-france.jpg);
+  background-image: url(/app-blanchard/img/twenty-one-france.jpg);
 }
 
 .catalog__twenty-france {
-  background-image: url(/img/twenty-france.jpg);
+  background-image: url(/app-blanchard/img/twenty-france.jpg);
 }
 
 .catalog__nineteen-france {
-  background-image: url(/img/nineteen-france.jpg);
+  background-image: url(/app-blanchard/img/nineteen-france.jpg);
 }
 
 .catalog__eighteen-france {
-  background-image: url(/img/eighteen-france.jpg);
+  background-image: url(/app-blanchard/img/eighteen-france.jpg);
 }
 
 .catalog__seventeen-france {
-  background-image: url(/img/seventeen-france.jpg);
+  background-image: url(/app-blanchard/img/seventeen-france.jpg);
 }
 
 .catalog__sixteen-france {
-  background-image: url(/img/sixteen-france.jpg);
+  background-image: url(/app-blanchard/img/sixteen-france.jpg);
 }
 
 .catalog__fourteen-france {
-  background-image: url(/img/fourteen-france.jpg);
+  background-image: url(/app-blanchard/img/fourteen-france.jpg);
 }
 
 .catalog__thirteen-france {
-  background-image: url(/img/thirteen-france.jpg);
+  background-image: url(/app-blanchard/img/thirteen-france.jpg);
 }
 
 .catalog__twelve-france {
-  background-image: url(/img/twelve-france.jpg);
+  background-image: url(/app-blanchard/img/twelve-france.jpg);
 }
 
 .catalog__eleven-france {
-  background-image: url(/img/eleven-france.jpg);
+  background-image: url(/app-blanchard/img/eleven-france.jpg);
 }
 
 .catalog__ten-france {
-  background-image: url(/img/ten-france.jpg);
+  background-image: url(/app-blanchard/img/ten-france.jpg);
 }
 
 .catalog__nine-france {
-  background-image: url(/img/nine-france.jpg);
+  background-image: url(/app-blanchard/img/nine-france.jpg);
 }
 
 .catalog__eight-france {
-  background-image: url(/img/eight-france.jpg);
+  background-image: url(/app-blanchard/img/eight-france.jpg);
 }
 
 .catalog__seven-france {
-  background-image: url(/img/seven-france.jpg);
+  background-image: url(/app-blanchard/img/seven-france.jpg);
 }
 
 .catalog__six-france {
-  background-image: url(/img/six-france.jpg);
+  background-image: url(/app-blanchard/img/six-france.jpg);
 }
 
 .catalog__five-france {
-  background-image: url(/img/five-france.jpg);
+  background-image: url(/app-blanchard/img/five-france.jpg);
 }
 
 .catalog__four-france {
-  background-image: url(/img/four-france.jpg);
+  background-image: url(/app-blanchard/img/four-france.jpg);
 }
 
 .catalog__three-france {
-  background-image: url(/img/three-france.jpg);
+  background-image: url(/app-blanchard/img/three-france.jpg);
 }
 
 .catalog__two-france {
-  background-image: url(/img/two-france.jpg);
+  background-image: url(/app-blanchard/img/two-france.jpg);
 }
 
 .catalog__content-left-germany {
-  background-image: url(/img/germany.jpg);
+  background-image: url(/app-blanchard/img/germany.jpg);
   background-size: 100% 470px;
 }
 
 .catalog__eight-germany {
-  background-image: url(/img/eight-germany.jpg);
+  background-image: url(/app-blanchard/img/eight-germany.jpg);
 }
 
 .catalog__seven-germany {
-  background-image: url(/img/seven-germany.jpg);
+  background-image: url(/app-blanchard/img/seven-germany.jpg);
 }
 
 .catalog__six-germany {
-  background-image: url(/img/six-germany.jpg);
+  background-image: url(/app-blanchard/img/six-germany.jpg);
 }
 
 .catalog__five-germany {
-  background-image: url(/img/five-germany.jpg);
+  background-image: url(/app-blanchard/img/five-germany.jpg);
 }
 
 .catalog__four-germany {
-  background-image: url(/img/four-germany.jpg);
+  background-image: url(/app-blanchard/img/four-germany.jpg);
 }
 
 .catalog__three-germany {
-  background-image: url(/img/three-germany.jpg);
+  background-image: url(/app-blanchard/img/three-germany.jpg);
 }
 
 .catalog__two-germany {
-  background-image: url(/img/two-germany.jpg);
+  background-image: url(/app-blanchard/img/two-germany.jpg);
 }
 
 .catalog__content-left-italy{
-  background-image: url(/img/catalog-content1.jpg);
+  background-image: url(/app-blanchard/img/catalog-content1.jpg);
   background-size: 100% 470px
 }
 
 .catalog__eight-italy {
-  background-image: url(/img/eight-italy.jpg);
+  background-image: url(/app-blanchard/img/eight-italy.jpg);
 }
 
 .catalog__seven-italy {
-  background-image: url(/img/seven-italy.jpg);
+  background-image: url(/app-blanchard/img/seven-italy.jpg);
 }
 
 .catalog__six-italy {
-  background-image: url(/img/six-italy.jpg);
+  background-image: url(/app-blanchard/img/six-italy.jpg);
 }
 
 .catalog__five-italy {
-  background-image: url(/img/five-italy.jpg);
+  background-image: url(/app-blanchard/img/five-italy.jpg);
 }
 
 .catalog__four-italy {
-  background-image: url(/img/four-italy.jpg);
+  background-image: url(/app-blanchard/img/four-italy.jpg);
 }
 
 .catalog__three-italy {
-  background-image: url(/img/three-italy.jpg);
+  background-image: url(/app-blanchard/img/three-italy.jpg);
 }
 
 .catalog__two-italy {
-  background-image: url(/img/two-italy.jpg);
+  background-image: url(/app-blanchard/img/two-italy.jpg);
 }
 
 .catalog__content-left-russia {
-  background-image: url(/img/russia.jpg);
+  background-image: url(/app-blanchard/img/russia.jpg);
   background-size: 100% 470px;
 }
 
 .catalog__eight-russia {
-  background-image: url(/img/eight-russia.jpg);
+  background-image: url(/app-blanchard/img/eight-russia.jpg);
 }
 
 .catalog__six-russia {
-  background-image: url(/img/six-russia.jpg);
+  background-image: url(/app-blanchard/img/six-russia.jpg);
 }
 
 .catalog__five-russia {
-  background-image: url(/img/five-russia.jpg);
+  background-image: url(/app-blanchard/img/five-russia.jpg);
 }
 
 .catalog__four-russia {
-  background-image: url(/img/four-russia.jpg);
+  background-image: url(/app-blanchard/img/four-russia.jpg);
 }
 
 .catalog__three-russia {
-  background-image: url(/img/three-russia.jpg);
+  background-image: url(/app-blanchard/img/three-russia.jpg);
 }
 
 .catalog__two-russia {
-  background-image: url(/img/two-russia.jpg);
+  background-image: url(/app-blanchard/img/two-russia.jpg);
 }
 
 .catalog__content-left-belgium {
-  background-image: url(/img/belgium.jpg);
+  background-image: url(/app-blanchard/img/belgium.jpg);
   background-size: 100% 470px;
 }
 
 .catalog__two-belgium {
-  background-image: url(/img/two-belgium.jpg);
+  background-image: url(/app-blanchard/img/two-belgium.jpg);
 }
 
 .catalog__three-belgium {
-  background-image: url(/img/three-belgium.jpg);
+  background-image: url(/app-blanchard/img/three-belgium.jpg);
 }
 
 .catalog__four-belgium {
-  background-image: url(/img/four-belgium.jpg);
+  background-image: url(/app-blanchard/img/four-belgium.jpg);
 }
 
 .catalog__five-belgium {
-  background-image: url(/img/five-belgium.jpg);
+  background-image: url(/app-blanchard/img/five-belgium.jpg);
 }
 
 .catalog__six-belgium {
-  background-image: url(/img/six-belgium.jpg);
+  background-image: url(/app-blanchard/img/six-belgium.jpg);
 }
 
 .catalog__seven-belgium {
-  background-image: url(/img/seven-belgium.jpg);
+  background-image: url(/app-blanchard/img/seven-belgium.jpg);
 }
 
 .catalog__none {
-  background-image: url(/img/catalog-none.jpg);
+  background-image: url(/app-blanchard/img/catalog-none.jpg);
   max-width: 750px;
   width: 100%;
 }
@@ -1674,7 +1674,7 @@ a.ui-button:active,
 }
 
 .catalog__right-btn::before{
-  content: url(/img/catalog-btn.svg);
+  content: url(/app-blanchard/img/catalog-btn.svg);
   display: block;
   top: 15px;
   right: 0;
@@ -1685,7 +1685,7 @@ a.ui-button:active,
 
 .catalog__right-btn:active::before,
 .catalog__right-btn:focus::before{
-  content: url(/img/catalog-active.svg);
+  content: url(/app-blanchard/img/catalog-active.svg);
 }
 
 /* events */
@@ -1753,31 +1753,31 @@ a.ui-button:active,
 }
 
 .events__item-1 {
-  background-image: url(/img/events-1.jpg);
+  background-image: url(/app-blanchard/img/events-1.jpg);
   margin-right: 50px;
   margin-bottom: 50px;
 }
 
 .events__item-2 {
-  background-image: url(/img/events-2.jpg);
+  background-image: url(/app-blanchard/img/events-2.jpg);
   margin-right: 50px;
   margin-bottom: 50px;
 }
 
 .events__item-3 {
   padding-top: 63%;
-  background-image: url(/img/events-3.jpg);
+  background-image: url(/app-blanchard/img/events-3.jpg);
   margin-bottom: 50px;
 }
 
 .events__item-4 {
-  background-image: url(/img/events-4.jpg);
+  background-image: url(/app-blanchard/img/events-4.jpg);
   margin-right: 50px;
   margin-bottom: 50px;
 }
 
 .events__item-5 {
-  background-image: url(/img/events-5.jpg);
+  background-image: url(/app-blanchard/img/events-5.jpg);
   margin-right: 50px;
   margin-bottom: 50px;
 }
@@ -1888,7 +1888,7 @@ a.ui-button:active,
   padding-left: 160px;
   padding-right: 160px;
   max-width: 100%;
-  background-image: url(/img/editions.jpg);
+  background-image: url(/app-blanchard/img/editions.jpg);
 }
 
 .editions__container {
@@ -2110,31 +2110,31 @@ input::-webkit-inner-spin-button {
 }
 
 .editions__swiper-slide-1 {
-  background-image: url(/img/editions-1.jpg);
+  background-image: url(/app-blanchard/img/editions-1.jpg);
 }
 
 .editions__swiper-slide-2 {
-  background-image: url(/img/editions-7.jpg);
+  background-image: url(/app-blanchard/img/editions-7.jpg);
 }
 
 .editions__swiper-slide-3 {
-  background-image: url(/img/editions-2.jpg);
+  background-image: url(/app-blanchard/img/editions-2.jpg);
 }
 
 .editions__swiper-slide-4 {
-  background-image: url(/img/editions-3.jpg);
+  background-image: url(/app-blanchard/img/editions-3.jpg);
 }
 
 .editions__swiper-slide-5 {
-  background-image: url(/img/editions-4.jpg);
+  background-image: url(/app-blanchard/img/editions-4.jpg);
 }
 
 .editions__swiper-slide-6 {
-  background-image: url(/img/editions-5.jpg);
+  background-image: url(/app-blanchard/img/editions-5.jpg);
 }
 
 .editions__swiper-slide-7 {
-  background-image: url(/img/editions-6.jpg);
+  background-image: url(/app-blanchard/img/editions-6.jpg);
 }
 
 .editions__right-text {
@@ -2329,7 +2329,7 @@ input::-webkit-inner-spin-button {
 
 .projects__marker {
   position: absolute;
-  background-image: url(/img/i.svg);
+  background-image: url(/app-blanchard/img/i.svg);
   background-repeat: no-repeat;
   background-position: center;
   width: 16.5px;
@@ -2347,7 +2347,7 @@ input::-webkit-inner-spin-button {
 }
 
 .projects__marker:active {
-  background-image: url(/img/i-wi.svg);
+  background-image: url(/app-blanchard/img/i-wi.svg);
   background-color: var(--element-color);
 
 }
@@ -2725,7 +2725,7 @@ input::-webkit-inner-spin-button {
   margin-right: 21px;
   width: 39px;
   height: 39px;
-  background-image: url(/img/footerteleg.svg);
+  background-image: url(/app-blanchard/img/footerteleg.svg);
   background-repeat: no-repeat;
   background-position: center left 55%;
   border: 1px solid #30BF39;
@@ -2749,7 +2749,7 @@ input::-webkit-inner-spin-button {
 .contacts__contacts-telegram {
   width: 39px;
   height: 39px;
-  background-image: url(/img/footerwatss.svg);
+  background-image: url(/app-blanchard/img/footerwatss.svg);
   background-repeat: no-repeat;
   background-position: center left 45%;
   border: 1px solid #229ED9;
@@ -3539,24 +3539,24 @@ input::-webkit-inner-spin-button {
 }
 
 .events__item-1 {
-  background-image: url(/img/events-1024-1.jpg);
+  background-image: url(/app-blanchard/img/events-1024-1.jpg);
 }
 
 .events__item-2 {
-  background-image: url(/img/events-1024-2.jpg);
+  background-image: url(/app-blanchard/img/events-1024-2.jpg);
 }
 
 .events__item-3 {
   padding-top: 74%;
-  background-image: url(/img/events-1024-3.jpg);
+  background-image: url(/app-blanchard/img/events-1024-3.jpg);
 }
 
 .events__item-4 {
-  background-image: url(/img/events-1024-4.jpg);
+  background-image: url(/app-blanchard/img/events-1024-4.jpg);
 }
 
 .events__item-5 {
-  background-image: url(/img/events-1024-5.jpg);
+  background-image: url(/app-blanchard/img/events-1024-5.jpg);
 }
 
 .editions__container {
